@@ -21,8 +21,8 @@ This AI chatbot uses natural language processing and machine learning techniques
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Arnie1x/medical_chatbot.git
-cd medical_chatbot
+git clone https://github.com/Arnie1x/ai_chatbot.git
+cd ai_chatbot
 ```
 
 2. Create a virtual environment (optional but recommended):
